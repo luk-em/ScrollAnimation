@@ -25,7 +25,7 @@ nav {
 
 header {
     height: 70vh;
-    background-image: url("img/header.jpg");
+    background-image: url(img/header.jpg);
 }
 
 .about,
